@@ -1,0 +1,16 @@
+wecom:
+  agentid: ''
+  secretid: ''
+  corpid: ''
+  token: ''
+  aeskey: ''
+gpt:
+  - worker: "https://worker1.yourcom.domain/v1"
+    apikey: "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  - worker: "https://worker2.yourcom.domain/v1"
+    apikey: "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  - worker: "https://worker3.yourcom.domain/v1"
+    apikey: "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+web:
+  url: '/your_callback_url'
+  port: 8000
