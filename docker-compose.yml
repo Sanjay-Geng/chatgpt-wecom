@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   chatgptwecom:
-    image: chatgptwecom:latest
+    image: gengsanjay/chatgptwecom:v0
     container_name: chatgpt-wecom
     ports:
       - 8000:8000
