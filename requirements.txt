@@ -2,5 +2,5 @@ openai==0.27.4
 cryptography==40.0.2
 six==1.16.0
 flask==2.3.1
-pyyaml==6.0
+pyyaml==6.0.1
 google-generativeai==0.5.4
